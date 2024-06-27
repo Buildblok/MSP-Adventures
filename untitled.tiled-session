@@ -1,0 +1,37 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "outside c painted.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "grass of outside.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "outside c painted.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "outside painted.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/build/Documents/Games/Computer Applications/img/tilesets",
+    "openFiles": [
+        "grass of outside.tsx",
+        "outside c painted.tsx",
+        "outside painted.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "grass of outside.tsx",
+        "outside painted.tsx",
+        "outside c painted.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
